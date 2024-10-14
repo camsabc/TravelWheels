@@ -1,0 +1,11 @@
+when want na sagad sa screen yung picture
+className="d-flex flex-column min-vh-100"
+
+margintop = mt-number
+margintopandbottom = mt-number
+
+
+<MDBTypography/> = when using text
+<MDBCol/> = for column
+<MDBContainer/> = for container
+<MDBCardImage/> = for pictures
