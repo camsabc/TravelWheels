@@ -1,6 +1,6 @@
-import React, { useState, useLocation } from 'react';
+import React, { useState } from 'react';
 import { MDBContainer, MDBCard, MDBCardBody, MDBRow, MDBCol, MDBTypography } from 'mdb-react-ui-kit';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 import {
   MDBNavbar,
   MDBNavbarNav,
